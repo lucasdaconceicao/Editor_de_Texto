@@ -1,0 +1,31 @@
+c:\users\lucass\documents\visual studio 2015\Projects\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.exe.config
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.exe
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.pdb
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.Form1.resources
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.Properties.Resources.resources
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.csproj.GenerateResource.Cache
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.exe
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.pdb
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.csprojResolveAssemblyReference.cache
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.Confirmar.resources
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.exe.config
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.exe
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.pdb
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.exe
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.pdb
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.csprojResolveAssemblyReference.cache
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.Confirmar.resources
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.Form1.resources
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.Properties.Resources.resources
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.csproj.GenerateResource.Cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.exe.config
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.exe
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.pdb
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.csprojAssemblyReference.cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.Confirmar.resources
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.Form1.resources
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.Properties.Resources.resources
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.exe
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.pdb
